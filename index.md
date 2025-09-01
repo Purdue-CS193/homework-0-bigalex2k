@@ -1,9 +1,9 @@
 
 # Alex's First CS193 Homework
--No Hard Homework!
--No Final exams or midterms
--We get to learn useful stuff!
--We get to talk to new people!
+-No Hard Homework! <br/>
+-No Final exams or midterms <br/>
+-We get to learn useful stuff! <br/>
+-We get to talk to new people! <br/>
 
 
 
